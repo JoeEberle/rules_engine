@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Rules Engine - Automated rules engine for dynamically analyzing data quality.
 Automated rules engine for dynamically analyzing data quality.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Rules Engine** - an example for your projects
 Automated rules engine for dynamically analyzing data quality.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
