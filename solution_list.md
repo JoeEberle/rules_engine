@@ -1,4 +1,4 @@
-## Pillasrs of Data Quality 
+## Pillars of Data Quality 
  1. **Completeness** - Ensures that all required data is present. 
   2. **Structural Integrity** - Ensures that the data adheres to the defined structure and format. 
   3. **Referential Integrity** - Ensures that data relationships are consistent and valid. 
