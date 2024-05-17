@@ -1,0 +1,36 @@
+{
+    "pillars": [
+        {
+            "pillar": "Completeness",
+            "description": "Ensures that all required data is present."
+        },
+        {
+            "pillar": "Structural Integrity",
+            "description": "Ensures that the data adheres to the defined structure and format."
+        },
+        {
+            "pillar": "Referential Integrity",
+            "description": "Ensures that data relationships are consistent and valid."
+        },
+        {
+            "pillar": "Accuracy",
+            "description": "Ensures that data is correct and free from errors."
+        },
+        {
+            "pillar": "Timeliness",
+            "description": "Ensures that data is up-to-date and available when needed."
+        },
+        {
+            "pillar": "Consistency",
+            "description": "Ensures that data is uniform and consistent across different datasets and systems."
+        },
+        {
+            "pillar": "Validity",
+            "description": "Ensures that data conforms to the defined rules and constraints."
+        },
+        {
+            "pillar": "Uniqueness",
+            "description": "Ensures that each data element is unique and not duplicated."
+        }
+    ]
+}
