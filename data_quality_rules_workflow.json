@@ -1,0 +1,52 @@
+{
+    "workflow_steps": [
+        {
+            "step": 1,
+            "description": "Establish a Data Set repository"
+        },
+        {
+            "step": 2,
+            "description": "Meta data about each data set worthy of quality check"
+        },
+        {
+            "step": 3,
+            "description": "Include Data set type (Table, File, Schema, Directory)"
+        },
+        {
+            "step": 4,
+            "description": "Define Rules"
+        },
+        {
+            "step": 5,
+            "description": "A simple set of rules that can be applied to all data sets"
+        },
+        {
+            "step": 6,
+            "description": "Assign Rules to data sets"
+        },
+        {
+            "step": 7,
+            "description": "Establish Data Set Quality Reference Measures"
+        },
+        {
+            "step": 8,
+            "description": "Permanently establish measures as a 'benchmark'"
+        },
+        {
+            "step": 9,
+            "description": "Execute Data Set Quality Rules"
+        },
+        {
+            "step": 10,
+            "description": "Test rules individually"
+        },
+        {
+            "step": 11,
+            "description": "Test rules as a batch"
+        },
+        {
+            "step": 12,
+            "description": "Run dashboard / reporting / alert / escalation"
+        }
+    ]
+}
