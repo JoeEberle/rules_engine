@@ -1,9 +1,0 @@
-2024-04-26 09:29:30,723 - INFO - START rules_engine =============================================
-2024-04-26 09:29:30,723 - INFO - START rules_engine Start Time = 2024-04-26 09:29:30
-2024-04-26 09:29:30,723 - INFO - rules_engine Step 0 - Initialize the configuration file parser
-2024-04-26 09:29:30,724 - INFO - Process rules_engine Step 0 - Initializing and starting Logging Process.
-2024-04-26 09:29:30,736 - INFO - PERFORMANCE rules_engine The total process duration was:0.01
-2024-04-26 09:29:30,736 - INFO - PERFORMANCE rules_engine Stop Time = 2024-04-26 09:29:30
-2024-04-26 09:29:30,736 - INFO - PERFORMANCE rules_engine Short process duration less than 3 Seconds:0.01
-2024-04-26 09:29:30,736 - INFO - PERFORMANCE rules_engine Performance optimization is not reccomended
-2024-04-26 09:29:30,736 - INFO - END rules_engine =============================================
