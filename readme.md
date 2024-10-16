@@ -65,11 +65,8 @@ To get started with the **Rules Engine** solution repository, follow these steps
  ![additional_image](data_quality.png)  <br>![additional_image](rules_engine.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
