@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Rules Engine 
-    ## Automated rules engine for dynamically analyzing data quality.
+    
+# Rules Engine 
+
+## Automated rules engine for dynamically analyzing data quality.
+
     ![Image image_filename](code.png)
 The **data quality rules engine** is designed to identify and reject datasets of poor quality by rigorously applying predefined validation rules and criteria. 
 
@@ -51,9 +54,9 @@ To get started with the **Rules Engine** solution repository, follow these steps
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Rules Engine** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -63,6 +66,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](data_quality.png)  <br>![additional_image](rules_engine.png)  <br>
