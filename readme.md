@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Rules Engine - Automated rules engine for dynamically analyzing data quality.![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Rules Engine 
+    ## Automated rules engine for dynamically analyzing data quality.
+    ![Image image_filename](code.png)
 The **data quality rules engine** is designed to identify and reject datasets of poor quality by rigorously applying predefined validation rules and criteria. 
 
 When data fails to meet standards for completeness, accuracy, integrity, or other quality dimensions, the engine **flags these issues** and rejects the dataset. This ensures that only data meeting quality thresholds is accepted for further use, maintaining the integrity and reliability of the overall system.
@@ -38,12 +41,15 @@ To get started with the **Rules Engine** solution repository, follow these steps
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
