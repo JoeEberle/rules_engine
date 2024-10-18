@@ -28,7 +28,7 @@ The engine also ensures **timeliness** by checking that the data is current and 
   7. **Validity** - Ensures that data conforms to the defined rules and constraints. 
   8. **Uniqueness** - Ensures that each data element is unique and not duplicated. 
  <br>
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
