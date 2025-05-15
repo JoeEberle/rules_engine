@@ -77,13 +77,3 @@ To get started with the **Rules Engine** solution repository, follow these steps
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](data_quality.png)  <br>![additional_image](rules_engine.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
