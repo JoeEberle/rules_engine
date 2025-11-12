@@ -4,11 +4,7 @@
 
 ## Automated rules engine for dynamically analyzing data quality.
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 The **data quality rules engine** is designed to identify and reject datasets of poor quality by rigorously applying predefined validation rules and criteria. 
 
 When data fails to meet standards for completeness, accuracy, integrity, or other quality dimensions, the engine **flags these issues** and rejects the dataset. This ensures that only data meeting quality thresholds is accepted for further use, maintaining the integrity and reliability of the overall system.
@@ -38,13 +34,7 @@ The engine also ensures **timeliness** by checking that the data is current and 
   7. **Validity** - Ensures that data conforms to the defined rules and constraints. 
   8. **Uniqueness** - Ensures that each data element is unique and not duplicated. 
  <br>
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
